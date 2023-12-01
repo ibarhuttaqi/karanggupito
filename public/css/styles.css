@@ -1,0 +1,41 @@
+/* * {
+    background-color: black;
+} */
+
+body {
+    /* background-image: url(../img/stacked-waves-haikei.png); */
+    /* background-image: url(../img/2.png); */
+    /* background-image: url(../img/3.png); */
+    /* background-image: url(../img/a.png); */
+    /* background-image: url(../img/d.png); */
+    background-image: url(../img/d.png);
+    background-size: cover;
+}
+.navv {
+    background-color: rgba(255, 255, 255, 0.2);
+    /* padding: 5px 70px; */
+    padding-top: 35px;
+    padding-bottom: 35px;
+    /* filter: opacity(0.2); */
+}
+img {
+    width: 50px;
+    height: 50px;
+}
+@font-face {
+    font-family: "a";
+    src: url("../fonts/Abril_Fatface/abrilfatface-regular-webfont.woff")
+        format("woff"); /* Sesuaikan dengan path dan format font */
+    /* Properti lain yang mungkin diperlukan */
+}
+@font-face {
+    font-family: "b";
+    src: url("../fonts/itim/itim-regular-webfont.woff") format("woff"); /* Sesuaikan dengan path dan format font */
+    /* Properti lain yang mungkin diperlukan */
+}
+@font-face {
+    font-family: "c";
+    src: url("../fonts/Playfair_Display/playfairdisplay-variablefont_wght-webfont.woff")
+        format("woff"); /* Sesuaikan dengan path dan format font */
+    /* Properti lain yang mungkin diperlukan */
+}
